@@ -23,38 +23,6 @@ I specialize in:
 ✔ Led **end-to-end delivery** of award-winning apps  
 ✔ Strong experience in **Agile, leadership & mentoring**  
 
-----------------------------------
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
-Java | Kotlin | JavaScript | Python
-
-### 📱 Mobile
-Android | Jetpack Compose | MVVM | MVP | Coroutines | Retrofit | React Native | Firebase
-
-### ⚙️ Backend
-Spring Boot | J2EE | Microservices | REST APIs | Secure API Design | Apache Tomcat
-
-### 🗄 Databases
-MySQL | SQLite
-
-### ☁️ Cloud & DevOps
-AWS EC2 | Jenkins | CI/CD | Azure (Basics)
-
-### 🧪 Testing
-JUnit | Appium | Postman | Automated Testing
-
-### 🧰 Tools
-Git | Bitbucket | SVN | Jira | ScrumWise | TFS  
-Android Studio | VS Code | Eclipse | Visual Studio  
-
-### 🌐 Web
-HTML | CSS | JSON | XML  
-
-### 🤖 AI & Automation
-Generative AI | Prompt Engineering | ChatGPT | Claude | GitHub Copilot  
-
 ------------------------------------
 
 
