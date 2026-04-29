@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I’m a **Senior Full Stack Developer & Tech Lead with 10+ years of experience** building secure, scalable mobile and backend solutions for banking, fintech and public sector clients including **OCBC, Bank of Singapore, and Ministry of Manpower (MOM)**.
+I’m a **Senior Full Stack Developer & Tech Lead with 10+ years of experience** building secure, scalable mobile and backend solutions for banking, fintech and public sector clients including **OCBC, Bank of Singapore and Ministry of Manpower (MOM)**.
 
 I specialize in:
 - 📱 Android (Kotlin, Jetpack Compose)
