@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Abshar Rafique
 
-Lead Mobile & Web Engineer | Mobile Engineering Lead | FinTech & Enterprise Systems | GenAI  Mobile Apps (Android, React Native, Flutter)| Java, Kotlin, Python Spring Boot,    Microservices, AWS | CI/CD | Banking | Gov Project | Google AI Certified
+Lead Mobile & Web Engineer | Senior Full Stack Developer | FinTech & Enterprise Systems | GenAI  Mobile Apps (Android, React Native, Flutter)| Java, Kotlin, Python Spring Boot,    Microservices, AWS | CI/CD | Banking | Gov Project | Google AI Certified
  
 📍 Singapore  
 📧 abshar.r.dev@gmail.com  
